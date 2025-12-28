@@ -11,7 +11,7 @@ The Red Wine dataset contains multiple physicochemical features such as acidity,
 Since the dataset contains **two or more independent variables**, it is suitable for **multilinear regression analysis**.
 
 ---
- 
+  
 ## 🔍 Exploratory Data Analysis (EDA)
 The following EDA steps were performed:
 - Basic data inspection and summary statistics
