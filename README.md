@@ -21,7 +21,7 @@ The following EDA steps were performed:
   - Heatmaps
   - Correlation analysis to understand feature relationships
 
----
+--- 
 
 ## 🛠 Feature Engineering
 - Separated **features (X)** and **target variable (y)**
