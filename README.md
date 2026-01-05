@@ -14,7 +14,7 @@ Since the dataset contains **two or more independent variables**, it is suitable
     
 ## 🔍 Exploratory Data Analysis (EDA) 
 The following EDA steps were performed: 
-- Basic data inspection and summary statistics
+- Basic data inspection and summary statistics 
 - Handling missing values (if any)
 - Data visualization using:
   - Pair plots
