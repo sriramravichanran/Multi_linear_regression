@@ -18,7 +18,7 @@ The following EDA steps were performed:
 - Handling missing values (if any) 
 - Data visualization using:
   - Pair plots
-  - Heatmaps
+  - Heatmaps 
   - Correlation analysis to understand feature relationships
 
 --- 
