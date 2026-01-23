@@ -16,7 +16,7 @@ Since the dataset contains **two or more independent variables**, it is suitable
 The following EDA steps were performed:  
 - Basic data inspection and summary statistics 
 - Handling missing values (if any) 
-- Data visualization using:
+- Data visualization using: 
   - Pair plots
   - Heatmaps 
   - Correlation analysis to understand feature relationships
