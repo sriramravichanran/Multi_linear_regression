@@ -5,7 +5,7 @@ This project demonstrates the implementation of **Multilinear Regression** using
 The goal is to analyze the relationship between multiple independent variables and the target variable using statistical and machine learning techniques.
  
 --- 
-
+ 
 ## 📊 Dataset Description
 The Red Wine dataset contains multiple physicochemical features such as acidity, alcohol content, pH level, and other attributes that influence wine quality.  
 Since the dataset contains **two or more independent variables**, it is suitable for **multilinear regression analysis**.
