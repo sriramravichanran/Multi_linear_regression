@@ -23,7 +23,7 @@ The following EDA steps were performed:
   
 ---  
 
-## 🛠 Feature Engineering
+## 🛠 Feature Engineering 
 - Separated **features (X)** and **target variable (y)**
 - Split the dataset into **training and testing sets**
 - Prepared data for model training
