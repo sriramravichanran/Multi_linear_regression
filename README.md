@@ -22,7 +22,7 @@ The following EDA steps were performed:
   - Correlation analysis to understand feature relationships
      
 ---  
-
+   
 ## 🛠 Feature Engineering 
 - Separated **features (X)** and **target variable (y)**
 - Split the dataset into **training and testing sets** 
