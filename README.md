@@ -19,7 +19,7 @@ The following EDA steps were performed:
 - Data visualization using: 
   - Pair plots
   - Heatmaps 
-  - Correlation analysis to understand feature relationships
+  - Correlation analysis to understand feature relationships  
      
 ---  
    
