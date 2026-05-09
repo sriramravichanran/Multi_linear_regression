@@ -28,7 +28,7 @@ The following EDA steps were performed:
 - Split the dataset into **training and testing sets** 
 - Prepared data for model training
 
----
+---   
 
 ## 📐 Multilinear Regression Model
 Multilinear Regression is applied when multiple independent variables are used to predict a dependent variable.
