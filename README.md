@@ -17,7 +17,7 @@ The following EDA steps were performed:
 - Basic data inspection and summary statistics   
 - Handling missing values (if any)  
 - Data visualization using: 
-  - Pair plots
+  - Pair plots   
   - Heatmaps 
   - Correlation analysis to understand feature relationships  
      
